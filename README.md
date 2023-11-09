@@ -1,4 +1,4 @@
-# L2-B1-Assignment-10
+**Level 2 Batch 1 Assignment 10**
 
 **Unit-1**
 
@@ -72,3 +72,16 @@ function fetchData() {
 
 - Test how the function handles errors. You can create a modified version of **`fetchData`** that rejects the Promise with an error and test that it throws an error.
 - For example, ensure that calling **`fetchData`** with a specific argument or configuration correctly rejects the Promise with an error message.
+
+### **General Guidelines:**
+
+- Use the Vitest or Jest framework to write and run your tests. Make sure your tests are written following the best practices.
+- Comment your code as needed to explain the purpose of your tests and any significant steps you are taking.
+- Ensure that your test cases are independent of each other, meaning the outcome of one test should not affect the others.
+- Aim for comprehensive test coverage, testing both expected behavior and error conditions where applicable.
+
+### **Deadline:**
+
+- 60 marks: November 12, 2023, 11:59 PM
+- 50 marks: November 13, 2023, 11:59 PM
+- 30 marks: After 13th November, 11.59PM
